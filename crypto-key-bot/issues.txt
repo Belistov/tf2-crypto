@@ -1,0 +1,2 @@
+!balance-crypto semes to be working while !balance-tf2 is not
+bot crashes after some time of being on less than a minute usually
